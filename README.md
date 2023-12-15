@@ -1,13 +1,13 @@
-Google Sheets as a Database
+# Google Sheets as a Database
 
-https://gooogle-sheet-as-database.netlify.app/
+# LINK - https://gooogle-sheet-as-database.netlify.app/
 
-Overview
+# Overview
 
 This repository demonstrates how to leverage Google Sheets as a simple and cost-effective database solution for your projects. Google Sheets provides an intuitive interface for data management, and with the help of Google Apps Script, it can be transformed into a dynamic backend for your applications.
 
 
-Features
+# Features
 
 Easy Setup: Quickly set up Google Sheets as a database for your project.
 
@@ -32,17 +32,17 @@ Configure the Google Apps Script to interact with your Google Sheets document.
 
 Implement your application's logic to communicate with the Google Sheets API.
 
-Documentation
+# Documentation
 
 Visit the Wiki for detailed documentation, examples, and best practices.
 
 
-Contributions
+# Contributions
 
 Contributions are welcome! Feel free to submit issues, feature requests, or pull requests.
 
 
-License
+# License
 
 This project is licensed under the MIT License.
 
